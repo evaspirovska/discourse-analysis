@@ -59,3 +59,4 @@ Each notebook is designed to handle specific tasks related to relation classific
 
 - The BERT notebooks focus on relation classification tasks with different configurations (all classes, elaboration excluded, and only elaboration).
 - The GPT notebooks cover both relation classification and elementary discourse unit classification, with additional notebooks for analyzing test results.
+- The same approach is used to generate and evaluate results for other GPT models, such as GPT-3.5 and GPT-4 Mini and is also used to generate results for the SciDTB dataset, based on the prompt messages defined in the appendix.
